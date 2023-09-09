@@ -35,3 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurahmon0412&" alt="abdurahmon0412" /></p>
     
+<p><img align="center" src="https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg" alt="itsdotnet" /></p>
