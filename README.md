@@ -1,7 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Abdurahmon</h1>
-<h3 align="center">A passionate Backend developer from Tashkent</h3>
-
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
     
